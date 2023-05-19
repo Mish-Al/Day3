@@ -1,4 +1,4 @@
-let string = "I am a string"
+let string = "String"
     console.log(typeof string)
         parseInt(string)
 // Did not change
@@ -6,14 +6,14 @@ let string = "I am a string"
 let string2 = "I am a string";
     console.log(typeof string2);
     
-let anArray = ["Hi","I","am","an","array"];
+let anArray = ["I","am","an","array"];
     Array(anArray)
     console.log(typeof anArray);
 
-let numb = 2;
+let numb = 7
 console.log(typeof numb);
 
-let value = 900719925124740998n;
+let value = 2002n;
     console.log(typeof value);
 
 let bool = true;
@@ -22,7 +22,7 @@ let bool = true;
 let beef;
     console.log(typeof beef);
 
-let object = {name:"yes",surname:"no"};
+let object = {name:"Mish",surname:"Taliep"};
     console.log(typeof object);
 
 let sym1 = Symbol();
